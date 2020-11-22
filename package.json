@@ -1,0 +1,25 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "Sample NodeJS app with tests",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saipraveen-a/nodejs-app-with-tests.git"
+  },
+  "author": "Sai Praveen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saipraveen-a/nodejs-app-with-tests/issues"
+  },
+  "homepage": "https://github.com/saipraveen-a/nodejs-app-with-tests#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.17.1",
+    "mocha": "^8.2.1",
+    "request": "^2.88.2"
+  }
+}
